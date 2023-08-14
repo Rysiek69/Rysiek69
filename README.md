@@ -11,9 +11,3 @@ Hey there! I'm Łukasz, a passionate React developer with a love for crafting en
 - **CSS/SASS**: I have a knack for styling and layout, using CSS (and SASS) to transform designs into pixel-perfect realities.
 - **Responsive Design**: Ensuring that my applications look and function flawlessly across a range of devices is a top priority.
 - **Version Control**: I manage my projects with Git and GitHub, enabling collaboration and efficient code maintenance.
-
-## Get In Touch
-
-I'm always eager to connect with fellow developers and tech enthusiasts. Feel free to reach out to me via [LinkedIn](your-linkedin-profile) or [Twitter](your-twitter-profile).
-
-Let's collaborate, learn, and create amazing things together!
